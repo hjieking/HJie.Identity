@@ -1,0 +1,16 @@
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\appsettings.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\HJie.Identity.ApiService01.deps.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\HJie.Identity.ApiService01.runtimeconfig.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\HJie.Identity.ApiService01.runtimeconfig.dev.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\HJie.Identity.ApiService01.dll
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.csprojAssemblyReference.cache
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.RazorAssemblyInfo.cache
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.RazorAssemblyInfo.cs
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.AssemblyInfoInputs.cache
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.AssemblyInfo.cs
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.RazorTargetAssemblyInfo.cache
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\HJie.Identity.ApiService01.pdb
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.dll
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.pdb
