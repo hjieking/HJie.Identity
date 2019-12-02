@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HJie.Identity.SwaggerGen</name>
+    </assembly>
+    <members>
+        <member name="T:HJie.Identity.SwaggerGen.Controllers.v1.UserController">
+            <summary>
+            gggggggggggggg
+            </summary>
+        </member>
+        <member name="M:HJie.Identity.SwaggerGen.Controllers.v1.UserController.Get(System.Int32)">
+            <summary>
+            gggggggggggg
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HJie.Identity.SwaggerGen.Controllers.v1.UserController.Post(System.String)">
+            <summary>
+            lllllllllllllll
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="T:HJie.Identity.SwaggerGen.Controllers.v1.ValuesController">
+            <summary>
+            aabbbbbbbbbbbb
+            </summary>
+        </member>
+        <member name="M:HJie.Identity.SwaggerGen.Controllers.v1.ValuesController.Get">
+            <summary>
+            aaaaaaaaaaaaa
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:HJie.Identity.SwaggerGen.Controllers.v1.ValuesController.Get(System.Int32)">
+            <summary>
+            hhhhhhhhhhhhhhh
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

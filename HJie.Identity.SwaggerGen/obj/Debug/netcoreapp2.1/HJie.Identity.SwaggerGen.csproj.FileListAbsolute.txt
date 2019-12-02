@@ -1,0 +1,17 @@
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\appsettings.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.deps.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.runtimeconfig.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.runtimeconfig.dev.json
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.dll
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.RazorAssemblyInfo.cache
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.RazorAssemblyInfo.cs
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.AssemblyInfoInputs.cache
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.AssemblyInfo.cs
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.RazorTargetAssemblyInfo.cache
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.pdb
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.csprojAssemblyReference.cache
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.dll
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.pdb
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.xml
