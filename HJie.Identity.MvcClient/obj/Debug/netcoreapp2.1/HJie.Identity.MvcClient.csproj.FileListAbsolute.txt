@@ -31,3 +31,4 @@ E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.MvcClient\obj\Debug\netcor
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.MvcClient\obj\Debug\netcoreapp2.1\HJie.Identity.MvcClient.dll
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.MvcClient\obj\Debug\netcoreapp2.1\HJie.Identity.MvcClient.pdb
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.MvcClient\obj\Debug\netcoreapp2.1\HJie.Identity.MvcClient.csproj.CopyComplete
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.MvcClient\obj\Debug\netcoreapp2.1\HJie.Identity.MvcClient.csprojAssemblyReference.cache

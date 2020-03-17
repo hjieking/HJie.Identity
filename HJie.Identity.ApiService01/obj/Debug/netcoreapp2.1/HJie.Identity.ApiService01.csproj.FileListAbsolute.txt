@@ -5,7 +5,6 @@ E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\net
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\HJie.Identity.ApiService01.runtimeconfig.json
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\HJie.Identity.ApiService01.runtimeconfig.dev.json
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\HJie.Identity.ApiService01.dll
-E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.csprojAssemblyReference.cache
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.RazorAssemblyInfo.cache
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.RazorAssemblyInfo.cs
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\net
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\bin\Debug\netcoreapp2.1\HJie.Identity.ApiService01.pdb
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.dll
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.pdb
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.ApiService01\obj\Debug\netcoreapp2.1\HJie.Identity.ApiService01.csprojAssemblyReference.cache

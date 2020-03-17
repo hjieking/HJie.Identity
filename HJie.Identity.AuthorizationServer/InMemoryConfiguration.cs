@@ -104,6 +104,12 @@ namespace HJie.Identity.AuthorizationServer
                     SubjectId = "10003",
                     Username = "leo@hotmail.com",
                     Password = "leopassword"
+                },
+                new TestUser
+                {
+                    SubjectId = "10004",
+                    Username = "admin",
+                    Password = "123456"
                 }
             };
         }

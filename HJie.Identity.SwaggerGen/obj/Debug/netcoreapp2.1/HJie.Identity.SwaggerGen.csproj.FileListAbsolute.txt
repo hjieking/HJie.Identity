@@ -11,7 +11,7 @@ E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netco
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.AssemblyInfo.cs
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.RazorTargetAssemblyInfo.cache
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.pdb
-E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.csprojAssemblyReference.cache
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.dll
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.pdb
 E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\bin\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.xml
+E:\SummaryTechnicalPoints\HJie.Identity\HJie.Identity.SwaggerGen\obj\Debug\netcoreapp2.1\HJie.Identity.SwaggerGen.csprojAssemblyReference.cache
